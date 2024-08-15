@@ -1,0 +1,6 @@
+[submodule "python/rabbitx-python-client"]
+	path = python/rabbitx-python-client
+	url = git@github.com:rabbitx-io/rabbitx-python-client.git
+[submodule "python/rabbitx"]
+	path = python/rabbitx
+	url = https://github.com/rabbitx-io/rabbitx-python-client
